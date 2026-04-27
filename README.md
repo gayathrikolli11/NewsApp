@@ -26,6 +26,7 @@ A simple news app built as part of a take-home assignment. Uses NewsAPI to fetch
 - Compose Navigation with type-safe routes
 
 ## Project Structure
+```
 com.example.newsapp
 ├── components/         # ArticleCard, SearchBar
 ├── data/
@@ -40,7 +41,7 @@ com.example.newsapp
 │   └── viewmodel/      # NewsViewModel
 ├── MainActivity.kt
 └── NewsApplication.kt
-
+```
 ## Setup
 
 1. Clone the repo
